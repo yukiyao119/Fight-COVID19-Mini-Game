@@ -2,7 +2,7 @@
 An Invader game allows players to battle virus-looking monsters in a browser based application. 
 
 ## Site
-https://yukiyao119.github.io/Fight-COVID19-Mini-Game
+https://yukiyao119.github.io/Invader-Mini-Game
 
 ## Tech Stack
 JavaScript, HTML, and CSS
